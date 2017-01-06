@@ -1,10 +1,10 @@
 --[[
 ▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                                ▀▄ ▄▀ 
-▀▄ ▄▀       BY ANWAR     @xXxDev_iqxXx          ▀▄ ▄▀ 
-▀▄ ▄▀ BY MOHAMMED LEADER  @Hamapaiz          ▀▄ ▄▀          
-▀▄ ▄▀ BY         CHNEALL     @Dev_faed           ▀▄ ▄▀   
-▀▄ ▄▀                  المطورين السورس               ▀▄ ▄▀ 
+▀▄ ▄▀       BY wissam  -----     @wosam1             ▀▄ ▄▀ 
+▀▄ ▄▀ BY ------dev ahvazi----  @wosambot             ▀▄ ▄▀          
+▀▄ ▄▀ BY   HAMOD      dev.bot     @HAMOUD56          ▀▄ ▄▀   
+▀▄ ▄▀                  المطورين السورس                  ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 
 --]]
