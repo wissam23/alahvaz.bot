@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY  faeder                        ▀▄ ▄▀ 
-▀▄ ▄▀     BY faeder (@xXxDev_iqxXx)        ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY HASSN_BKS             ▀▄ ▄▀   
+▀▄ ▄▀    BY  wossam                        ▀▄ ▄▀ 
+▀▄ ▄▀     BY hamood (@wosambot)        ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY alahvazi             ▀▄ ▄▀   
 ▀▄ ▄▀        plugins  : تفعيل الملفات      ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
