@@ -16,7 +16,7 @@ end
 return {
   description = "tshake face",
   usage = "send tshake random  ",
-  patterns = {"هايدر"},
+  patterns = {"احوازي"},
   run = run
 }
 
