@@ -20,7 +20,7 @@ local function axis(msg,matches)
     ..'📅 التاريخ : '..os.date('!%A, %B %d, %Y*\n', timestamp)
     ..'🕚 الوقت : '..os.date(' %T*', os.time())..'\n'  
      ..'➖➖➖➖➖ـ'..'\n'
-    ..'🔊مجموعة البوت : https:https://telegram.me/joinchat/EMB4L0GHuxjaFliVnloz3g '..'\n'
+    ..'🔊مجموعة البوت :  '..'\n'
     ..'🕵 مطور البوت : @wosambot'..'\n'
     ..'🤖 معرف البوت : @wosam1'..'\n'..'\n'
      return reply_msg(msg.id, text, ok_cb, false)
@@ -39,7 +39,7 @@ local function axis(msg,matches)
     ..'📅 التاريخ : '..os.date('!%A, %B %d, %Y*\n', timestamp)
     ..'🕚 الوقت : '..os.date(' %T*', os.time())..'\n'  
      ..'➖➖➖➖➖ـ'..'\n'
-    ..'🔊مجموعة البوت : https://telegram.me/joinchat/EMB4L0GHuxjaFliVnloz3g '..'\n'
+    ..'🔊مجموعة البوت :  '..'\n'
     ..'🕵 مطور البوت : @wosambot'..'\n'
     ..'🤖 معرف البوت : @wosam1'..'\n'..'\n'
         return reply_msg(msg.id, text, ok_cb, false)
