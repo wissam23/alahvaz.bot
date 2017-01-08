@@ -3,7 +3,7 @@ do local _ = {
   disabled_channels = {},
   enabled_plugins = {
     "anti_spam",
-    ""
+    "ahvaz"
   },
   help_text_realm = "",
   help_text_super = "",
