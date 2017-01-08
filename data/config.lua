@@ -3,8 +3,24 @@ do local _ = {
   disabled_channels = {},
   enabled_plugins = {
     "anti_spam",
-    "ahvaz"
-  },
+    "avhvaz",                     
+    "addsudo",
+    "aser",                                                                                                                                      
+    "boote",
+    "boyt",
+    "id",
+    "inrealm",
+    "jjj",
+    "lock_fwd",
+    "plugins",
+    "red",
+    "rere",
+    "soper",
+    "welec",
+    
+    
+    
+    },
   help_text_realm = "",
   help_text_super = "",
   moderation = {
@@ -12,11 +28,6 @@ do local _ = {
   },
   sudo_users = {
     281049135,
-    271527630,
-    190703568,
-    164340178,
-    284042991,
-    281690543
   }
 }
 return _
